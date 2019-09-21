@@ -1,0 +1,144 @@
+{
+  "machines": [
+    {
+      "display_name": "Big Drink",
+      "id": 1,
+      "is_online": false,
+      "name": "bigdrink",
+      "slots": [
+        {
+          "active": true,
+          "empty": true,
+          "item": {
+            "id": 1,
+            "name": "Coke",
+            "price": 10
+          },
+          "number": 3
+        },
+        {
+          "active": true,
+          "empty": true,
+          "item": {
+            "id": 10,
+            "name": "Coke Zero",
+            "price": 10
+          },
+          "number": 2
+        },
+        {
+          "active": true,
+          "empty": true,
+          "item": {
+            "id": 6,
+            "name": "Grape Fanta",
+            "price": 10
+          },
+          "number": 1
+        },
+        {
+          "active": true,
+          "empty": true,
+          "item": {
+            "id": 14,
+            "name": "7-up",
+            "price": 10
+          },
+          "number": 4
+        },
+        {
+          "active": true,
+          "empty": true,
+          "item": {
+            "id": 22,
+            "name": "Drink's Choice",
+            "price": 5
+          },
+          "number": 5
+        },
+        {
+          "active": true,
+          "empty": true,
+          "item": {
+            "id": 15,
+            "name": "Empty",
+            "price": 99999
+          },
+          "number": 6
+        },
+        {
+          "active": true,
+          "empty": true,
+          "item": {
+            "id": 15,
+            "name": "Empty",
+            "price": 99999
+          },
+          "number": 7
+        }
+      ]
+    },
+    {
+      "display_name": "Little Drink",
+      "id": 2,
+      "is_online": false,
+      "name": "littledrink",
+      "slots": [
+        {
+          "active": false,
+          "empty": true,
+          "item": {
+            "id": 4,
+            "name": "Dr. Pepper",
+            "price": 10
+          },
+          "number": 4
+        },
+        {
+          "active": false,
+          "empty": true,
+          "item": {
+            "id": 6,
+            "name": "Grape Fanta",
+            "price": 10
+          },
+          "number": 5
+        },
+        {
+          "active": true,
+          "empty": true,
+          "item": {
+            "id": 5,
+            "name": "La Croix",
+            "price": 10
+          },
+          "number": 2
+        },
+        {
+          "active": true,
+          "empty": true,
+          "item": {
+            "id": 7,
+            "name": "Jolt",
+            "price": 200
+          },
+          "number": 3
+        },
+        {
+          "active": false,
+          "empty": true,
+          "item": {
+            "id": 8,
+            "name": "Bawls",
+            "price": 100
+          },
+          "number": 1
+        }
+      ]
+    }
+  ],
+  "message": "Successfully retrieved machine contents for bigdrink, littledrink"
+}
+
+
+
